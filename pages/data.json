@@ -1,0 +1,42 @@
+[
+    {
+        "tshirtId":"1",
+        "productName":"Regular White T-shirt",
+        "category":"Topwear",
+        "price":"300",
+        "rating": "2.8",
+        "description":"White T-Shirt",
+        "image":"/white_tshirt.jpeg",
+        "attribute":"White Shirt"
+    },
+    {
+        "tshirtId":"2",
+        "productName":"Brown T-shirt",
+        "category":"Topwear",
+        "price":"500",
+        "rating": "3.5",
+        "description":"Brown T-Shirt",
+        "image":"/brown_tshirt.jpeg",
+        "attribute":"Brown Shirt"
+    },
+    {
+        "tshirtId":"3",
+        "productName":"Green T-shirt",
+        "category":"Topwear",
+        "price":"350",
+        "rating":"4",
+        "description":"Green T-Shirt",
+        "image":"/mens_shirt.jpeg",
+        "attribute":"Brown Shirt"
+    },
+    {
+        "tshirtId":"4",
+        "productName":"Navy Blue T-shirt",
+        "category":"Topwear",
+        "price":"450",
+        "rating":"4.5",
+        "description":"Navy Blue T-Shirt",
+        "image":"/mens.jpeg",
+        "attribute":"Navy Blue Shirt"
+    }
+]

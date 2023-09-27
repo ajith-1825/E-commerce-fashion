@@ -1,0 +1,11 @@
+[
+    {
+        "tshirtId":"1",
+        "productName":"Regular White T-shirt",
+        "category":"Topwear",
+        "price":"30",
+        "description":"White Shirt",
+        "image":"/white_tshirt.jpeg",
+        "attribute":"White Shirt"
+    }
+]
